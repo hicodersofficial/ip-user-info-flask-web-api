@@ -2,6 +2,12 @@
 
 this is python flask application that provide information about an ip address or user information through there ip address.
 
+### Open help for the app.
+
+```
+$ python app.py -h
+```
+
 # Run in Test mode(cmd)
 
 You can test this in command mode too.
@@ -12,7 +18,6 @@ RUN the following command to run in test mode.
 $ python app.py -cmd
     OR
 $ python app.py -cmd -ip 8.8.8.8
-
 ```
 
 # Run flask app (web)
